@@ -1,0 +1,173 @@
+{
+    "widgets": [
+        {
+            "x": 0,
+            "y": 0,
+            "type": "static-text",
+            "title": "How Oon Nirnay Helps",
+            "width": 10,
+            "height": 7,
+            "content": "## From wool in hand to a decision she can defend.\n\nMaking wool is not the same as knowing whether it can become a viable business. **Oon Nirnay** helps a rural hill-sheep entrepreneur examine one seasonal wool batch using her actual costs, buyer actions, local constraints and missing evidence.\n\nIt helps her:\n\n* compare raw sale, cleaned and graded wool, a small yarn test and collective selling;\n* count labour, transport, packaging, losses, commissions and payment delays;\n* distinguish buyer interest from real purchase evidence; and\n* receive exactly one next decision: **Proceed, Pilot, Modify, Collaborate, Test further or Pause**.\n\nThe final **Rural Venture Decision Card** separates facts, verified information, assumptions, calculations and missing evidence—and turns them into a practical 30-day plan.\n\n"
+        },
+        {
+            "x": 0,
+            "y": 7,
+            "type": "text-input",
+            "title": "अपने बारे में बताइए | About You",
+            "width": 6,
+            "height": 5,
+            "placeholder": "Tell us about yourself: your village, sheep, skills, present buyers, income pattern, available resources, phone or internet access, biggest business difficulty and how much money you can safely test. Speak or type naturally. Do not share identity numbers, bank details, phone numbers or your exact home address.",
+            "defaultValue": "मैं हेमा देवी हूँ और मुनस्यारी, पिथौरागढ़ के पास एक पहाड़ी गाँव में रहती हूँ। मैं कुमाऊँनी बोलना पसंद करती हूँ और सरल हिन्दी समझती हूँ। मेरे पास 12 पहाड़ी भेड़ें हैं। मुझे भेड़ पालन और ऊन की सामान्य देखभाल आती है, लेकिन अपनी प्रसंस्करण मशीन नहीं है। परिवार मदद कर सकता है और सूखी जगह उपलब्ध है। आमदनी मौसमी है तथा कोई नियमित खरीदार नहीं है। दूर के बाजार तक महँगा और मौसम पर निर्भर परिवहन मेरी मुख्य परेशानी है। मैं साझा Android फोन और कमजोर इंटरनेट इस्तेमाल करती हूँ तथा जरूरत पड़ने पर SHG सहायक की मदद ले सकती हूँ। घर के ₹10,000 सुरक्षित रखने हैं और छोटे परीक्षण में अधिकतम ₹1,500 लगा सकती हूँ।"
+        },
+        {
+            "x": 6,
+            "y": 7,
+            "type": "text-input",
+            "title": "आपकी ऊन और खर्च | Wool & Costs",
+            "width": 6,
+            "height": 5,
+            "placeholder": "Tell us about this wool batch and the money involved: quantity, buyer offers, usable wool after cleaning, your labour, materials, packaging, transport, storage or spoilage, commission and payment delay. Mention whether each figure is an estimate or buyer quote. Say “unknown” instead of guessing.",
+            "defaultValue": "मई की कतराई से 18 kg कच्ची ऊन है। स्थानीय व्यापारी ने ₹70/kg और तुरन्त भुगतान का मौखिक प्रस्ताव दिया; वहाँ पहुँचाने में ₹150 लगेंगे। सफाई के बाद लगभग 13.5 kg बचने का मेरा अनुमान है—मापा नहीं गया। साफ और छँटी ऊन के लिए ₹170/kg केवल मौखिक बात हुई है, खरीद पक्की नहीं।  सफाई: 12 घंटे × ₹40; सामग्री ₹180; पैकिंग ₹120; परिवहन ₹450; भंडारण ₹80। श्रम छोड़कर ₹830 पहले चाहिए। खराबी, कमीशन और भुगतान समय अज्ञात हैं। 4 kg yarn test की yield, spinning cost और buyer price भी अज्ञात हैं। Collective fee ₹100 और shared transport लगभग ₹120 बताया गया; बाकी शर्तें पक्की नहीं हैं।"
+        },
+        {
+            "x": 0,
+            "y": 12,
+            "type": "text-input",
+            "title": "खरीदार ने क्या कहा? | Buyer Proof",
+            "width": 6,
+            "height": 5,
+            "placeholder": "Tell us who you actually contacted and what each buyer did—not only whether they liked the idea. Include the wool form, quantity, price, quality conditions, payment terms and whether the evidence was verbal, written, supported by a deposit or a completed purchase. If no buyer has been contacted, say so.",
+            "defaultValue": "स्थानीय व्यापारी ने पूरे 18 kg के लिए ₹70/kg और तुरन्त भुगतान कहा, लेकिन लिखित quote, deposit या deduction rules नहीं दिए।  पास के processor ने साफ ऊन का 1 kg sample देखने को कहा और ₹170/kg मौखिक रूप से बताया; खरीद, मात्रा और भुगतान तारीख पक्की नहीं है।  SHG facilitator ने collective processing सम्भव बताया, लेकिन buyer, charge, quantity और payment time की पुष्टि नहीं हुई। किसी retailer, institution या online buyer से अभी खरीद का प्रमाण नहीं है।"
+        },
+        {
+            "x": 6,
+            "y": 12,
+            "type": "text-input",
+            "title": "ऊन की स्थिति | Wool Check",
+            "width": 6,
+            "height": 5,
+            "placeholder": "Tell us only what you can observe: shearing date, whether the wool is dry or damp, visible dirt, burrs, pests or damage, how it is stored, whether it has been sorted or inspected, and any unusual wool loss or skin concern in the flock. Do not try to diagnose an illness.",
+            "defaultValue": "ऊन मई में काटी गई और सूखी जगह में breathable sacks में रखी है। कुछ हिस्सों में धूल, काँटे और दाग हैं; गीले और बहुत गंदे हिस्से अलग किए गए हैं। Professional grading, laboratory test या buyer inspection नहीं हुआ, इसलिए quality certification का दावा नहीं है। दो भेड़ों में अधिक खुजली और एक में थोड़ा wool loss दिखा; veterinary जाँच नहीं हुई। यह केवल observation है, diagnosis नहीं।"
+        },
+        {
+            "x": 0,
+            "y": 17,
+            "type": "select",
+            "title": "भाषा चुनें | Language",
+            "width": 6,
+            "height": 2,
+            "options": [
+                "Kumaoni-assisted (कुमाऊँनी + सरल हिन्दी)",
+                "Simple Hindi (सरल हिन्दी)",
+                "English"
+            ],
+            "placeholder": "अपनी पसंद की भाषा चुनें। / Choose your preferred language.",
+            "defaultValue": "Kumaoni-assisted (कुमाऊँनी + सरल हिन्दी)"
+        },
+        {
+            "x": 6,
+            "y": 17,
+            "type": "select",
+            "title": "कौन इस्तेमाल कर रहा है? | User",
+            "width": 6,
+            "height": 2,
+            "options": [
+                "Entrepreneur (उद्यमी)",
+                "SHG/NGO Facilitator (सहायक)"
+            ],
+            "placeholder": "बताएँ कि ऐप कौन इस्तेमाल कर रहा है। / Who is using the app?",
+            "defaultValue": "Entrepreneur (उद्यमी)"
+        },
+        {
+            "x": 0,
+            "y": 19,
+            "type": "inferred-text",
+            "title": "What Is the Opportunity?",
+            "width": 6,
+            "height": 10,
+            "prompt": "You are the first analysis step in Oon Nirnay, an evidence-based venture navigator for a rural woman entrepreneur.\nIdentify ONE precise business opportunity worth examining now. Do not make the final Proceed, Pilot, Modify, Collaborate, Test further or Pause decision.\nUse only the referenced information.\nRules:\n\n\nSeparate supplied facts, estimates, verbal quotes and confirmed buyer actions.\n\nDo not treat interest or a possible price as proven demand.\n\nDo not invent prices, quantities, customers, wool grades, certifications, schemes or missing numbers.\n\nCall the product local hill-sheep wool unless verified evidence supports another description. Never call sheep wool pashmina.\n\nUse flock observations only as business-risk signals. Do not diagnose illness or suggest treatment.\n\nRespect the entrepreneur’s resources, safe pilot limit, digital access, transport and seasonal income.\n\nIf evidence is insufficient, say so.\nFollow the selected language. For Kumaoni-assisted mode, use Simple Hindi as the reliable base. Add Kumaoni wording only when confident; never invent translations.\nKeep the output under 180 words.\nOpportunity to examine\nState the wool form, first customer, test quantity, route and price status.\nWhy it may fit\nGive up to three evidence-based reasons.\nWhat does not add up\nList only important contradictions or weak claims.\nEvidence still needed\nSeparate critical evidence from useful evidence.\nOne buyer-action test\nGive one low-cost action that tests whether a customer will buy and state what result would count as meaningful evidence.\nEntrepreneur context: [अपने बारे में बताइए | About You] \nBatch and costs: [आपकी ऊन और खर्च | Wool & Costs] \nBuyer evidence: [खरीदार ने क्या कहा? | Buyer Proof] \nWool observations: [ऊन की स्थिति | Wool Check] \nLanguage: [भाषा चुनें | Language]\nUse Mode: [कौन इस्तेमाल कर रहा है? | User] ",
+            "parameters": {
+                "topP": 0.85,
+                "model": "bedrock-anthropic.claude-4-5-sonnet-v1-0",
+                "temperature": 0.2
+            }
+        },
+        {
+            "x": 6,
+            "y": 19,
+            "type": "inferred-text",
+            "title": "Will the Buyer Actually Pay?",
+            "width": 6,
+            "height": 10,
+            "prompt": "You are the demand-validation step in Oon Nirnay. Determine what buyers have actually done and design one practical test of willingness to buy. Do not make the final venture decision or calculate detailed profitability.\nUse this evidence ladder:\n0 - No buyer contacted\n1 - Interest only: praise, enquiry or general claim\n2 - Specific action: price discussion, quantity discussion or sample request\n3 - Commitment: written order, signed agreement or deposit\n4 - Completed purchase with payment\nRules:\n\n\nClassify only observed buyer behaviour.\n\nA verbal price or sample request is not a purchase commitment.\n\nDo not invent buyers, demand, prices, orders, deposits or market data.\n\nCompare only customer types that are feasible for this entrepreneur.\n\nConsider quantity, quality conditions, payment delay, transport, digital access and intermediary dependence.\n\nUse the proposed opportunity as a hypothesis, not as proof.\n\nThe test must ask for a buying action, not feedback or likes.\nFollow the selected language and use mode. In Kumaoni-assisted mode, use Simple Hindi as the reliable base and add Kumaoni wording only when confident.\nKeep the output under 190 words.\nBuyer evidence ladder\nUse a compact table with: Buyer | Observed action | Level 0-4 | Missing proof. Include no more than four buyers.\nBest customer to test next\nName one customer type and explain why in two sentences.\nPurchase test\nState:\n\n\nexact offer to test\n\nsmallest feasible quantity\n\nwhat the entrepreneur should ask the buyer to do\n\nwhat would count as success\n\nwhat result would mean modify or stop\nDo not invent a quantity or price. If unavailable, mark it “to be confirmed before testing.”\nEvidence warning\nState the single biggest demand uncertainty.\nEntrepreneur context: [अपने बारे में बताइए | About You] \nBatch and costs: [आपकी ऊन और खर्च | Wool & Costs] \nRecorded buyer actions: [खरीदार ने क्या कहा? | Buyer Proof] \nOpportunity being examined: [What Is the Opportunity?] \nLanguage: [भाषा चुनें | Language] \nUse mode: [कौन इस्तेमाल कर रहा है? | User]",
+            "parameters": {
+                "topP": 0.8,
+                "model": "bedrock-anthropic.claude-4-5-sonnet-v1-0",
+                "temperature": 0.1
+            }
+        },
+        {
+            "x": 0,
+            "y": 29,
+            "type": "inferred-text",
+            "title": "What Will She Really Earn?",
+            "width": 12,
+            "height": 10,
+            "prompt": "You are the calculation step in Oon Nirnay. Calculate transparent unit economics using only the referenced data. Do not recommend the final venture decision.\nRules:\n\n\nNever invent or silently assume a missing number.\n\nLabel every number as supplied fact, entrepreneur estimate, verbal buyer quote or calculation.\n\nNever call revenue “profit.”\n\nInclude the entrepreneur’s labour even when she does not pay cash for it.\n\nInclude materials, processing, packaging, transport, storage or spoilage, commission and payment delay when provided.\n\nTreat the net value of selling raw wool now as the opportunity cost of value addition.\n\nIf commission, spoilage, payment terms or another necessary value is missing, show a provisional result and state what is excluded.\n\nDo not calculate yarn or collective profitability when yield, cost or buyer price is missing.\n\nShow formulas in simple language and check the arithmetic.\nFor each feasible option, calculate:\n\n\nSaleable quantity after known loss\n\nGross revenue\n\nCash costs\n\nLabour cost\n\nNet earnings after known costs\n\nEarnings per saleable kg\n\nCash required before payment\n\nIncremental gain or loss compared with selling raw\nGive a break-even estimate:\n\n\nminimum selling price needed to cover known costs and the raw-sale opportunity cost;\n\nbreak-even quantity only when fixed and variable costs can be separated reliably.\nFollow the selected language and use mode. Keep numerals and ₹ amounts easy to read. In Kumaoni-assisted mode, use Simple Hindi as the reliable base.\nKeep the output under 230 words.\nComparison\nUse a compact table: Option | Revenue | Known total cost | Net earnings | Evidence status.\nKey calculation\nShow the raw-sale baseline, cleaned-wool calculation and incremental gain/loss with formulas.\nBreak-even\nShow the valid price or quantity estimate and formula.\nMissing numbers\nList only missing values that could materially change the result.\nEntrepreneur context: [अपने बारे में बताइए | About You] \nBatch and cost evidence: [आपकी ऊन और खर्च | Wool & Costs] \nBuyer evidence: [खरीदार ने क्या कहा? | Buyer Proof] \nWool condition: [ऊन की स्थिति | Wool Check] \nLanguage: [भाषा चुनें | Language] \nUse mode: [कौन इस्तेमाल कर रहा है? | User] ",
+            "parameters": {
+                "topP": 0.7,
+                "model": "bedrock-anthropic.claude-4-5-sonnet-v1-0",
+                "temperature": 0,
+                "showReasoning": false
+            }
+        },
+        {
+            "x": 0,
+            "y": 39,
+            "type": "inferred-text",
+            "title": "Where Should She Sell?",
+            "width": 12,
+            "height": 11,
+            "prompt": "You are the route-to-market, resilience and support step in Oon Nirnay. Compare realistic ways for this entrepreneur to reach buyers. Do not make the final venture decision.\nConsider:\n\n\nvillage or local trader\n\nnearby artisan, processor, retailer or institution\n\nSHG, cooperative, producer collective or aggregator\n\nWhatsApp/social commerce or online marketplace only when realistically feasible\nRules:\n\n\nUse only supplied prices, costs, quantities and buyer actions for route comparison.\n\nConsider margin evidence, feasible volume, payment delay, logistics, digital capability and dependence on intermediaries.\n\nDo not invent buyers, demand, prices or route availability.\n\nState why an apparently attractive route is not currently feasible.\n\nIdentify risks relevant to rural and seasonal enterprises: transport disruption, storage/spoilage, quality rejection, low volume, payment delay, household cash exposure and buyer dependence.\n\nUse flock observations only as commercial warning signs; do not diagnose or recommend treatment.\n\nRecommend support according to the immediate constraint: training, market linkage, equipment, collective procurement, working capital or formal credit.\n\nDo not recommend borrowing before demand and repayment ability are reasonably tested.\nUse internet search only to verify a specific support programme, scheme or market opportunity. Show it only when an official source confirms its current status, geographic applicability and eligibility. Include the source link and eligibility. Otherwise write: “Not currently verified - do not rely on this yet.”\nFollow the selected language and use mode. For Kumaoni-assisted mode, use Simple Hindi as the reliable base.\nKeep the output under 240 words.\nRoute comparison\nUse a compact table: Route | Money and demand evidence | Practical burden | Current fit.\nRecommended route to investigate\nName one route and explain why. This is not the final venture decision.\nThree principal risks\nFor each risk, give one warning signal and one practical mitigation.\nResilience limit\nState the safe pilot boundary and a fallback if the test fails.\nSupport pathway\nRecommend one immediate support type. Mention a specific programme only when fully verified as required above.\nEntrepreneur context: [अपने बारे में बताइए | About You] \nBatch and costs: [आपकी ऊन और खर्च | Wool & Costs] \nBuyer actions: [खरीदार ने क्या कहा? | Buyer Proof] \nFlock and wool observations: [ऊन की स्थिति | Wool Check] \nLanguage: [भाषा चुनें | Language] \nUse mode: [कौन इस्तेमाल कर रहा है? | User] ",
+            "parameters": {
+                "topP": 0.8,
+                "model": "bedrock-anthropic.claude-4-5-sonnet-v1-0",
+                "tools": [
+                    "webSearch"
+                ],
+                "temperature": 0.1
+            }
+        },
+        {
+            "x": 0,
+            "y": 50,
+            "type": "inferred-text",
+            "title": "Decision Challenger and Reality Check",
+            "width": 12,
+            "height": 11,
+            "prompt": "You are Oon Nirnay’s independent Decision Challenger. Audit the proposed venture case before the final Decision Card is generated.\nDo not repeat every earlier output and do not make the final official decision. Find the weakest evidence, calculation or assumption that could make the recommendation unsafe or wrong.\nApply these gates:\n\n\nInterest or a verbal price alone cannot support Proceed.\n\nIncomplete unit economics cannot support Proceed.\n\nA test requiring more than the household-safe limit must be reduced, modified or conducted with a partner.\n\nRevenue must never be presented as profit.\n\nMissing commission, spoilage or payment-delay information must reduce confidence.\n\nUnverified schemes, market claims, certifications or fibre grades cannot support viability.\n\nFlock or wool warning signs may require inspection or veterinary referral, but never diagnose illness.\n\nSheep wool must never be presented as pashmina.\n\nA route must match available volume, transport and digital capability.\nKeep the output under 180 words.\nAudit status\nChoose one: Ready to decide | Evidence fragile | Not ready to decide. Give one sentence of justification.\nStrongest challenge\nState the single strongest reason the current opportunity or route may fail.\nDecision sensitivity\nIdentify one supplied or missing value that could change the final decision. Explain the direction of change without inventing a number.\nNon-negotiable next check\nGive one action that must happen before money or the complete wool batch is committed.\nSafe handoff\nGive up to three facts the final Decision Card must not overlook.\nFollow the selected language and use mode. In Kumaoni-assisted mode, use Simple Hindi as the reliable base and add Kumaoni wording only when confident.\nEntrepreneur context: [अपने बारे में बताइए | About You] \nOriginal batch and cost data: [आपकी ऊन और खर्च | Wool & Costs] \nOriginal buyer actions: [खरीदार ने क्या कहा? | Buyer Proof] \nWool observations: [ऊन की स्थिति | Wool Check] \nOpportunity analysis: [What Is the Opportunity?] \nDemand analysis: [Will the Buyer Actually Pay?] \nEconomics analysis: [What Will She Really Earn?] \nRoute and risk analysis: [Where Should She Sell?] \nLanguage: [भाषा चुनें | Language] \nUse mode: [कौन इस्तेमाल कर रहा है? | User]",
+            "parameters": {
+                "topP": 0.75,
+                "model": "bedrock-anthropic.claude-4-5-sonnet-v1-0",
+                "temperature": 0.1,
+                "showReasoning": true
+            }
+        },
+        {
+            "x": 0,
+            "y": 61,
+            "type": "inferred-text",
+            "title": "Rural Venture Decision Card",
+            "width": 12,
+            "height": 33,
+            "prompt": "You are the final decision step in Oon Nirnay. Generate one concise Rural Venture Decision Card using the referenced evidence and analyses.\nChoose exactly ONE decision:\n\n\nProceed - sufficient evidence supports a limited launch\n\nPilot - conduct a small, controlled market test\n\nModify - change the product, customer, price or sales channel\n\nCollaborate - pursue the opportunity through a group or partner\n\nTest further - critical evidence is still missing\n\nPause - the current model is unlikely to be viable\nDecision rules:\n\n\nProceed requires credible buying evidence, complete unit economics and acceptable household risk.\n\nPilot requires a small, controlled and affordable test with a measurable success condition.\n\nModify requires a specific change to product, customer, price or channel.\n\nCollaborate requires a clear reason that a partner or group makes the opportunity more viable.\n\nTest further applies when critical evidence is missing and a safe pilot cannot yet be defined.\n\nPause applies when the available evidence indicates that the current model is unlikely to be viable.\n\nChoose only one. Do not combine decisions.\n\nDo not allow a test to exceed the household-safe limit.\n\nDo not invent prices, buyers, calculations, fibre grades, certifications or external information.\n\nNever call sheep wool pashmina.\n\nDo not provide veterinary diagnosis or treatment.\n\nCarry forward a scheme or programme only when its official source, geographic applicability and eligibility were verified. Otherwise state that no external support information was verified.\n\nIf earlier outputs conflict, use the original supplied data, show the conflict and lower confidence.\n\nGive concise reasoning, not hidden chain-of-thought.\nFollow the selected language and use mode. For Kumaoni-assisted mode, use clear Simple Hindi as the reliable base and add Kumaoni wording only when confident.\nKeep the complete card under 380 words.\nOON NIRNAY - RURAL VENTURE DECISION CARD\nDECISION\nShow exactly one decision in bold, followed by one sentence explaining why.\nENTREPRENEUR, CUSTOMER AND OPPORTUNITY\nSummarise the entrepreneur and business context, customer, customer problem, wool form, proposed quantity and route.\nEVIDENCE LEDGER\nClearly separate:\n\n\nFacts supplied by the entrepreneur\n\nVerified external information\n\nAssumptions made by the system\n\nCalculations\n\nMissing evidence\nIf a category has nothing, write “None verified” or “None used.”\nBUSINESS SNAPSHOT\nShow:\n\n\nsaleable quantity\n\nknown cost and cash required\n\nentrepreneur’s labour\n\nprice and evidence status\n\nexpected margin or provisional result\n\nbreak-even estimate\n\nrecommended sales channel\n\nup to three principal risks\n\nimmediate support type to explore\nNever present an incomplete calculation as final.\nREASONING\nGive up to three short, evidence-based reasons for the selected decision. Include the Decision Challenger’s strongest warning.\nPRACTICAL 30-DAY PLAN\nGive four time-bound steps:\n\n\nDays 1-7\n\nDays 8-14\n\nDays 15-21\n\nDays 22-30\nEach step must state an action and measurable evidence to collect. End with when the decision should be reviewed again.\nEntrepreneur context: [अपने बारे में बताइए | About You] \nOriginal batch and costs: [आपकी ऊन और खर्च | Wool & Costs] \nOriginal buyer actions: [खरीदार ने क्या कहा? | Buyer Proof] \nWool observations: [ऊन की स्थिति | Wool Check] \nOpportunity analysis: [What Is the Opportunity?] \nDemand analysis: [Will the Buyer Actually Pay?] \nEconomics analysis: [What Will She Really Earn?] \nRoute, risk and support analysis: [Where Should She Sell?] \nDecision challenge: [Decision Challenger and Reality Check] \nLanguage: [भाषा चुनें | Language] \nUse mode: [कौन इस्तेमाल कर रहा है? | User] ",
+            "parameters": {
+                "topP": 0.75,
+                "model": "bedrock-anthropic.claude-4-5-sonnet-v1-0",
+                "temperature": 0.1,
+                "showReasoning": true
+            },
+            "printNewlines": true
+        }
+    ]
+}
